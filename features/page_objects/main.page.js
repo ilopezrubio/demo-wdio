@@ -19,4 +19,7 @@ export class Page {
     get searchbtnillo () { return browser.element('//*[@id="flights"]/form/div[6]/button'); }
 
 }
+<<<<<<< HEAD
 >>>>>>> se agregan 5 selectors
+=======
+>>>>>>> Added 5 selectors
